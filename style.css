@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(orange, orangered);
+}
+section.chapter{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
